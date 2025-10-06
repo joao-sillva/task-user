@@ -1,6 +1,6 @@
 ## Teste técnico: Estagiário Back-End (Node.js + TypeScript)
 
-![texto alternativo](./github/preview.png)
+![preview](./.github/preview.png)
 
 ### Objetivo
 
