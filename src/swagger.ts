@@ -9,6 +9,10 @@ const options: SwaggerOptions = {
       version: "1.0.0",
       description: "API REST para gerenciar usuários e tarefas",
     },
+    tags: [
+      { name: "Users", description: "Gerenciamento de usuários" },
+      { name: "Tasks", description: "Gerenciamento de tarefas" },
+    ],
     servers: [
       {
         url: "http://localhost:3333/api",
