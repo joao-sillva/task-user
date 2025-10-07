@@ -23,7 +23,7 @@ A aplicação permite gerenciar **usuários** e suas **tarefas**, com endpoints 
 
 1. Clonar repositório
 ```bash
-git clone https://github.com/seu-usuario/task-user.git
+https://github.com/joao-sillva/task-user.git
 cd task-user
 ```
 
